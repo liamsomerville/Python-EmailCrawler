@@ -10,4 +10,4 @@ Plans for the Future
  - Count SSLErrors
  - Accept input arguments instead of hard coding
  - write outputs to files
-
+ - Explicitly include the ropbots.txt
