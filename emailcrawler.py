@@ -1,5 +1,5 @@
 #! /usr/bin/python
-#Written in conjunction with Kay Avila!
+#Written in conjunction with Kay Avila and Ewan Smith!
 
 #import our modules
 import urllib
