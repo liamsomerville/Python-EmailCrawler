@@ -12,7 +12,7 @@ import socket
 import time
 from bs4 import BeautifulSoup
 
-url = 'http://www.aegon.co.uk'
+url = 'http://www.myurl.co.uk'
 #we need to track urls still to visit
 #we also need to track urls we have visitied so we dont go there again
 
